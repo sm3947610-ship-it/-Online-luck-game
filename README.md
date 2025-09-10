@@ -1,2 +1,2 @@
-# -Online-luck-game
+# -Online-lucky-game
 556644
